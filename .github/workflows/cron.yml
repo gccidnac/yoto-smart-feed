@@ -1,0 +1,44 @@
+name: Actualizar Feed Yoto
+on:
+  schedule:
+    - cron: '0 6 * * *' # Se ejecuta automáticamente todos los días a las 6:00 AM UTC
+  workflow_dispatch: # Activa el botón y el formulario manual
+    inputs:
+      podcasts_list:
+        description: 'Lista de URLs RSS (separadas por comas)'
+        required: true
+        default: 'Pega tus URLs separadas por comas aquí'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    # Si se activa manualmente, reescribe el archivo con el contenido del formulario
+    - name: Actualizar archivo desde el formulario
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        echo "${{ github.event.inputs.podcasts_list }}" | tr ',' '\n' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' > podcasts.txt
+        
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Instalar librerías
+      run: pip install -r requirements.txt
+      
+    - name: Ejecutar script de Python
+      run: python actualizar_podcast.py
+      
+    - name: Guardar cambios en el repositorio
+      run: |
+        git config --global user.name 'Yoto Bot'
+        git config --global user.email 'bot@yoto.com'
+        git add yoto-feed.xml podcasts.txt
+        git commit -m "Feed actualizado de forma inteligente" || exit 0
+        git push
