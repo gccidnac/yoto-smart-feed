@@ -39,6 +39,6 @@ jobs:
       run: |
         git config --global user.name 'Yoto Bot'
         git config --global user.email 'bot@yoto.com'
-        git add yoto-feed.xml podcasts.txt
-        git commit -m "Feed actualizado de forma inteligente" || exit 0
+        git add *-feed.xml playlists/*.txt
+        git commit -m "Todos los feeds actualizados dinámicamente" || exit 0
         git push
