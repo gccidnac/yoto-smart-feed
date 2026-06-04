@@ -12,7 +12,6 @@ def process_playlist_file(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
             line_clean = line.strip()
-            # Ignore empty lines and lines starting with # (comments)
             if not line_clean or line_clean.startswith("#"):
                 continue
             urls.append(line_clean)
@@ -24,12 +23,10 @@ def generate_feeds():
         os.makedirs(FOLDER_PLAYLISTS)
         return
 
-    # Ensure output folder exists
     if not os.path.exists(FOLDER_OUTPUT):
         print(f"Creating output folder '{FOLDER_OUTPUT}'...")
         os.makedirs(FOLDER_OUTPUT)
 
-    # Find all .txt files inside the playlists folder
     files = [f for f in os.listdir(FOLDER_PLAYLISTS) if f.endswith(".txt")]
 
     if not files:
@@ -62,17 +59,29 @@ def generate_feeds():
                     pub_date = datetime.fromtimestamp(time.mktime(entry.published_parsed))
                     
                     enclosure_url = ""
+                    enclosure_length = "10000000"  # ~10MB fallback
+                    enclosure_type = "audio/mpeg"
+                    
                     if hasattr(entry, 'enclosures'):
                         for enc in entry.enclosures:
-                            if enc.type.startswith('audio/'):
+                            # Fixed the syntax error here (.endswith instead of .choices)
+                            if enc.type.startswith('audio/') or any(enc.href.lower().endswith(ext) for ext in ['.mp3', '.m4a', '.aac']):
                                 enclosure_url = enc.href
+                                if hasattr(enc, 'length') and enc.length and str(enc.length) != "0":
+                                    enclosure_length = str(enc.length)
+                                if hasattr(enc, 'type') and enc.type:
+                                    enclosure_type = enc.type
                                 break
                     
                     if enclosure_url:
+                        # Replaced square brackets with a clean hyphen just in case
+                        clean_title = f"{podcast_title} - {entry.title}"
                         all_episodes.append({
-                            'title': f"[{podcast_title}] {entry.title}",
+                            'title': clean_title,
                             'description': getattr(entry, 'summary', ''),
                             'url': enclosure_url,
+                            'length': enclosure_length,
+                            'type': enclosure_type,
                             'date': pub_date
                         })
             except Exception as e:
@@ -82,10 +91,8 @@ def generate_feeds():
             print(f"  No valid audio episodes found for '{playlist_name}'.")
             continue
 
-        # Sort episodes by publication date (newest first)
         all_episodes.sort(key=lambda x: x['date'], reverse=True)
 
-        # Build the specific RSS feed for this playlist
         fg = FeedGenerator()
         fg.load_extension('podcast')
         fg.title(f"Yoto Mix: {playlist_name.capitalize()}")
@@ -93,18 +100,16 @@ def generate_feeds():
         fg.description(f"Combined playlist for Yoto Player generated from {file}")
         fg.language('en')
 
-        # Save the 15 most recent episodes
         for ep in all_episodes[:15]:
             fe = fg.add_entry()
             fe.title(ep['title'])
             fe.description(ep['description'])
-            fe.enclosure(ep['url'], 0, 'audio/mpeg')
+            fe.enclosure(ep['url'], ep['length'], ep['type'])
             fe.pubDate(ep['date'].astimezone())
 
-        # Output path (e.g., feeds/kids_podcasts-feed.xml)
         output_filename = os.path.join(FOLDER_OUTPUT, f"{playlist_name}-feed.xml")
         fg.rss_file(output_filename, pretty=True)
-        print(f"¡Success! Generated file: {output_filename}")
+        print(f"Success! Generated file: {output_filename}")
 
 if __name__ == "__main__":
     generate_feeds()
