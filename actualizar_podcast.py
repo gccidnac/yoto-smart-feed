@@ -1,4 +1,4 @@
-<import os
+import os
 import feedparser
 from feedgen.feed import FeedGenerator
 from datetime import datetime
