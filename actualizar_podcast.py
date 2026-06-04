@@ -1,4 +1,3 @@
-python
 import os
 import feedparser
 from feedgen.feed import FeedGenerator
