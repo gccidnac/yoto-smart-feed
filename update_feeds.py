@@ -74,7 +74,6 @@ def generate_feeds():
                                 break
                     
                     if enclosure_url:
-                        # Replaced square brackets with a clean hyphen just in case
                         clean_title = f"{podcast_title} - {entry.title}"
                         all_episodes.append({
                             'title': clean_title,
@@ -82,7 +81,9 @@ def generate_feeds():
                             'url': enclosure_url,
                             'length': enclosure_length,
                             'type': enclosure_type,
-                            'date': pub_date
+                            'date': pub_date,
+                            'guid': getattr(entry, 'id', None),
+                            'duration': getattr(entry, 'itunes_duration', None),
                         })
             except Exception as e:
                 print(f"  Error reading {url}: {e}")
@@ -106,6 +107,10 @@ def generate_feeds():
             fe.description(ep['description'])
             fe.enclosure(ep['url'], ep['length'], ep['type'])
             fe.pubDate(ep['date'].astimezone())
+            if ep.get('guid'):
+                fe.id(ep['guid'])
+            if ep.get('duration'):
+                fe.podcast.itunes_duration(ep['duration'])
 
         output_filename = os.path.join(FOLDER_OUTPUT, f"{playlist_name}-feed.xml")
         fg.rss_file(output_filename, pretty=True)
