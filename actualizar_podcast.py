@@ -1,49 +1,56 @@
-import os
+<import os
 import feedparser
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 import time
 
 FOLDER_PLAYLISTS = "playlists"
+FOLDER_OUTPUT = "feeds"
 
-def procesar_fichero_playlist(filepath):
+def process_playlist_file(filepath):
     urls = []
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
             line_clean = line.strip()
+            # Ignore empty lines and lines starting with # (comments)
             if not line_clean or line_clean.startswith("#"):
                 continue
             urls.append(line_clean)
     return urls
 
-def generar_feeds():
+def generate_feeds():
     if not os.path.exists(FOLDER_PLAYLISTS):
-        print(f"No se encontró la carpeta '{FOLDER_PLAYLISTS}'. Creándola...")
+        print(f"Playlist folder '{FOLDER_PLAYLISTS}' not found. Creating it...")
         os.makedirs(FOLDER_PLAYLISTS)
         return
 
-    # Buscar todos los archivos .txt dentro de la carpeta playlists
-    archivos = [f for f in os.listdir(FOLDER_PLAYLISTS) if f.endswith(".txt")]
+    # Ensure output folder exists
+    if not os.path.exists(FOLDER_OUTPUT):
+        print(f"Creating output folder '{FOLDER_OUTPUT}'...")
+        os.makedirs(FOLDER_OUTPUT)
 
-    if not archivos:
-        print("No se encontraron archivos .txt en la carpeta playlists.")
+    # Find all .txt files inside the playlists folder
+    files = [f for f in os.listdir(FOLDER_PLAYLISTS) if f.endswith(".txt")]
+
+    if not files:
+        print("No .txt files found in the playlists folder.")
         return
 
-    for archivo in archivos:
-        nombre_playlist = os.path.splitext(archivo)[0] # Ej: "noticias" o "infantil"
-        filepath = os.path.join(FOLDER_PLAYLISTS, archivo)
+    for file in files:
+        playlist_name = os.path.splitext(file)[0]
+        filepath = os.path.join(FOLDER_PLAYLISTS, file)
         
-        print(f"\n--- Procesando Playlist: {nombre_playlist.upper()} ---")
-        urls = procesar_fichero_playlist(filepath)
+        print(f"\n--- Processing Playlist: {playlist_name.upper()} ---")
+        urls = process_playlist_file(filepath)
         
         if not urls:
-            print(f"La playlist '{nombre_playlist}' está vacía o solo contiene comentarios.")
+            print(f"Playlist '{playlist_name}' is empty or only contains comments.")
             continue
 
-        todos_los_episodios = []
+        all_episodes = []
 
         for url in urls:
-            print(f"  Leyendo feed: {url}")
+            print(f"  Reading feed: {url}")
             try:
                 feed = feedparser.parse(url)
                 podcast_title = feed.feed.title if hasattr(feed.feed, 'title') else "Podcast"
@@ -62,42 +69,42 @@ def generar_feeds():
                                 break
                     
                     if enclosure_url:
-                        todos_los_episodios.append({
+                        all_episodes.append({
                             'title': f"[{podcast_title}] {entry.title}",
                             'description': getattr(entry, 'summary', ''),
                             'url': enclosure_url,
                             'date': pub_date
                         })
             except Exception as e:
-                print(f"  Error leyendo {url}: {e}")
+                print(f"  Error reading {url}: {e}")
 
-        if not todos_los_episodios:
-            print(f"  No se encontraron episodios de audio válidos para '{nombre_playlist}'.")
+        if not all_episodes:
+            print(f"  No valid audio episodes found for '{playlist_name}'.")
             continue
 
-        # Ordenar episodios de esta playlist por fecha
-        todos_los_episodios.sort(key=lambda x: x['date'], reverse=True)
+        # Sort episodes by publication date (newest first)
+        all_episodes.sort(key=lambda x: x['date'], reverse=True)
 
-        # Construir el feed RSS específico para esta playlist
+        # Build the specific RSS feed for this playlist
         fg = FeedGenerator()
         fg.load_extension('podcast')
-        fg.title(f"Yoto Mix: {nombre_playlist.capitalize()}")
+        fg.title(f"Yoto Mix: {playlist_name.capitalize()}")
         fg.link(href='https://github.com')
-        fg.description(f"Playlist combinada para Yoto generada desde {archivo}")
-        fg.language('es')
+        fg.description(f"Combined playlist for Yoto Player generated from {file}")
+        fg.language('en')
 
-        # Guardar los 15 más recientes
-        for ep in todos_los_episodios[:15]:
+        # Save the 15 most recent episodes
+        for ep in all_episodes[:15]:
             fe = fg.add_entry()
             fe.title(ep['title'])
             fe.description(ep['description'])
             fe.enclosure(ep['url'], 0, 'audio/mpeg')
             fe.pubDate(ep['date'].astimezone())
 
-        # Nombre del archivo de salida (Ej: noticias-feed.xml o infantil-feed.xml)
-        output_filename = f"{nombre_playlist}-feed.xml"
+        # Output path (e.g., feeds/kids_podcasts-feed.xml)
+        output_filename = os.path.join(FOLDER_OUTPUT, f"{playlist_name}-feed.xml")
         fg.rss_file(output_filename, pretty=True)
-        print(f"¡Éxito! Generado el archivo: {output_filename}")
+        print(f"¡Success! Generated file: {output_filename}")
 
 if __name__ == "__main__":
-    generar_feeds()
+    generate_feeds()
