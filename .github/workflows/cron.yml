@@ -35,10 +35,10 @@ jobs:
     - name: Ejecutar script de Python
       run: python actualizar_podcast.py
       
-    - name: Guardar cambios en el repositorio
+    - name: Save changes to repository
       run: |
-        git config --global user.name 'Yoto Bot'
-        git config --global user.email 'bot@yoto.com'
-        git add *-feed.xml playlists/*.txt
-        git commit -m "Todos los feeds actualizados dinámicamente" || exit 0
-        git push
+          git config --global user.name 'Yoto Bot'
+          git config --global user.email 'bot@yoto.com'
+          git add feeds/*.xml playlists/*.txt
+          git commit -m "All feeds updated dynamically inside the feeds folder" || exit 0
+          git push
