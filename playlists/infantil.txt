@@ -1,1 +1,11 @@
-https://feeds.acast.com/public/shows/yotodaily
+# Bobby Wonder
+https://feeds.megaphone.fm/SBP6687568663
+
+# Moment of UM
+https://feeds.publicradio.org/public_feeds/moment-of-um
+
+# Captain FINN
+https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/028c0140-45a3-4bd6-b6a0-acf300c85232/podcast.rss
+
+# Million Bazillion
+https://feeds.publicradio.org/public_feeds/million-bazillion

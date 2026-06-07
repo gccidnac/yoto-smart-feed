@@ -42,3 +42,8 @@ https://thepastandthecurious.libsyn.com/rss
 
 # Short & Curly (An ethics podcast for kids about big fair questions)
 https://www.abc.net.au/radio/podcasts/short-and-curly/rss
+
+
+# --- 6-10 years
+# Misteries of science
+https://feeds.publicradio.org/public_feeds/moment-of-um
