@@ -27,37 +27,5 @@ https://feeds.megaphone.fm/whatifworld
 https://bedtimehistory.libsyn.com/rss
 
 
-# --- SCIENCE & CURIOSITY (Ciencia y Curiosidades) ---
-
-# Brains On! (Science podcast for kids and curious adults)
-https://feeds.publicradio.org/brainson
-
-# Wow in the World (NPR's science and technology podcast for kids)
-https://feeds.npr.org/510321/podcast.xml
-
-# Tumble (Science podcast for kids telling stories of discovery)
-https://feeds.feedburner.com/tumblescience
-
-# Smash Boom Best (A debate show for kids testing history and facts)
-https://feeds.publicradio.org/smashboombest
-
-# Earth Rangers (All about animals, nature, and conservation)
-https://earthrangers.libsyn.com/rss
-
-# But Why: A Podcast for Curious Kids (Answering kids' big questions)
-https://feeds.vpr.org/but-why
-
-
-# --- GENERAL KNOWLEDGE & INTERACTIVE (Cultura y Juegos) ---
-
-# Forever Ago (A history podcast for the whole family)
-https://feeds.publicradio.org/foreverago
-
-# Who Smarted? (Daily bite-sized history and science games)
-https://feeds.megaphone.fm/whosmarted
-
-# The Past & The Curious (A humorous history podcast for kids)
-https://thepastandthecurious.libsyn.com/rss
-
-# Short & Curly (An ethics podcast for kids about big fair questions)
-https://www.abc.net.au/radio/podcasts/short-and-curly/rss
+# Yoto Daily
+https://feeds.acast.com/public/shows/yotodaily
