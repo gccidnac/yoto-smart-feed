@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:50:24 +0000</lastBuildDate>
-    <item>
-      <title>Million Bazillion - What is inflation?</title>
-      <description>&lt;p&gt;Today we're resharing an episode from our archive that might feel more relevant with gas prices up. We're going to dig more into those gas prices in the new season of “Million Bazillion: (coming soon). But this is a good time to learn about something called "inflation." After traveling back in time to stock up on snacks, Bridget and Ryan get a chance to try to control runaway inflation … but their ideas don’t quite go as planned.&lt;/p&gt;</description>
-      <guid isPermaLink="false">01KMP2YT4PZ5V21R1EA0S5B94W</guid>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/03/30/millionbazillion_20260330_Million_Bazillion_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KMP2YT4PZ5V21R1EA0S5B94W" length="26001271" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Mar 2026 19:00:00 +0000</pubDate>
-      <itunes:duration>00:27:04</itunes:duration>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 10:05:38 +0000</lastBuildDate>
     <item>
       <title>Million Bazillion - “Million Bazillion” Season 10 is almost here!</title>
       <description>&lt;p&gt;Hello, Million Bazillionaires, we’ve got a new season of “Million Bazillion” coming your way on April 14!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;To mark the 10th season, Bridget and Ryan are going all out to answer your money questions. If you’re wondering why gas prices keep going up? We’ve got answers. Curious what the fuss is about Tax Day? We’ve got that covered too. Plus, a special episode about the gold standard, recorded in front of a real live audience. &lt;/p&gt;&lt;br /&gt;&lt;p&gt;If you’re in or near the Boston area come see us live. Check our &lt;a class="default" href="https://www.eventbrite.com/e/million-bazillion-mega-awesome-super-huge-wicked-fun-podcast-playdate-tickets-1980927714118?aff=oddtdtcreator&amp;amp;utm_campaign=Million+Bazillion+20260210&amp;amp;utm_medium=email&amp;amp;utm_source=sfmc_&amp;amp;utm_content=&amp;amp;utm_term=13771153"&gt;events page&lt;/a&gt; for ticket information.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Don’t forget to sign up for the “Million Bazillion” &lt;a href="https://www.marketplace.org/newsletters"&gt;newsletter&lt;/a&gt; so you never miss an episode and get access to episode extras, including conversation starters for grownups and kids.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;New episodes drop every Tuesday starting April 14. Listen to a sneak peek above, &lt;a href="https://www.marketplace.org/shows/million-bazillion"&gt;get caught up&lt;/a&gt; on any episodes you may have missed and subscribe wherever you listen to podcasts!&lt;/p&gt;</description>
@@ -127,6 +119,14 @@
       <enclosure url="https://traffic.megaphone.fm/STM7414222354.mp3" length="10000000" type="audio/mpeg"/>
       <pubDate>Sat, 06 Jun 2026 10:05:00 +0000</pubDate>
       <itunes:duration>923</itunes:duration>
+    </item>
+    <item>
+      <title>Million Bazillion - What’s the difference between capitalism, socialism, and communism?</title>
+      <description>&lt;p&gt;Bridget and Ryan are having their lunch break at a Chinese restaurant when they run into “Million Bazillion” listener Daphne with a big question: What’s the difference between capitalism, socialism, and communism? Turns out, each system was born out of people’s attempts to build a better society, but they have very different ideas about the role the government should play in our money lives. As the duo work their way through these "isms," they explore the problems that each system tries to solve and the tradeoffs that come with it.&lt;/p&gt;</description>
+      <guid isPermaLink="false">01KT7T0KQEHVS8RC8HPJT27HK4</guid>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/06/09/millionbazillion_20260609_MB_S10_E7_Economic_Systems_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KT7T0KQEHVS8RC8HPJT27HK4" length="31785016" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:33:06</itunes:duration>
     </item>
   </channel>
 </rss>
