@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:20:04 +0000</lastBuildDate>
-    <item>
-      <title>Million Bazillion - What are tax returns?</title>
-      <description>&lt;p&gt;The 10th season of “Million Bazillion” is here just in time to mark Bridget and Ryan’s favorite holiday – Tax Day! There’s just one problem: Ryan hasn’t finished filing his taxes yet. With the clock ticking, Bridget steps in to help him out before midnight. Along the way, they tackle a great question from Kade: What exactly are tax returns? Will they figure everything out before time runs out?&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If your family is interested in learning even more about today’s question, check out our &lt;a class="default" href="https://www.marketplace.org/preview/episodes/01KNA3QJ30ZS1FA8Q0YEG4A5CC?token=45ffbdc237374d2297e405efbbf9b331"&gt;website&lt;/a&gt;. We’ve got conversation starters and a tip sheet!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Love the show? You can help make it happen. Donate what you can at &lt;a class="default" href="https://support.marketplace.org/mkp"&gt;marketplace.org/givemillion.&lt;/a&gt; &lt;/p&gt;</description>
-      <guid isPermaLink="false">01KNA3QJ30ZS1FA8Q0YEG4A5CC</guid>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/04/14/millionbazillion_20260414_S10_E1_Taxes_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KNA3QJ30ZS1FA8Q0YEG4A5CC" length="30790681" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Apr 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>00:32:04</itunes:duration>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 11:14:52 +0000</lastBuildDate>
     <item>
       <title>Million Bazillion - Why does the price of gas go up and down?</title>
       <description>&lt;p&gt;If you’re anything like “Million Bazillion” listener, Elijah, you may have noticed gas prices change from one day to the next, sometimes by a few pennies, sometimes by a lot more. Why does that happen? Ryan and Bridget’s search for answers turns into a much bigger adventure when a falling star and misplaced wish mean Ryan’s car suddenly comes to life and takes them on a wild road trip. Together, Bridget and Ryan learn what the price we pay at the pump has to do with global forces and crude oil's long journey to becoming gas in our fuel tanks.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If your family is interested in learning even more about today’s question, check out our &lt;a class="default" href="https://www.marketplace.org/episode/2026/04/21/why-does-the-price-of-gas-go-up-and-down"&gt;website&lt;/a&gt;. We’ve got conversation starters and a tip sheet!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Love the show? You can help make it happen. Donate what you can at marketplace.org/givemillion.&lt;/p&gt;</description>
@@ -62,7 +54,7 @@
       <guid isPermaLink="false">96e2d566-4dd2-11f1-b994-2f57cd7196cd</guid>
       <enclosure url="https://traffic.megaphone.fm/STM6329358291.mp3?updated=1778570683" length="10000000" type="audio/mpeg"/>
       <pubDate>Tue, 12 May 2026 10:05:00 +0000</pubDate>
-      <itunes:duration>909</itunes:duration>
+      <itunes:duration>939</itunes:duration>
     </item>
     <item>
       <title>Million Bazillion - What is the gold standard?</title>
@@ -110,7 +102,7 @@
       <guid isPermaLink="false">d5b76ecc-6179-11f1-b52c-43fdbb3f98f9</guid>
       <enclosure url="https://traffic.megaphone.fm/STM7414222354.mp3" length="10000000" type="audio/mpeg"/>
       <pubDate>Sat, 06 Jun 2026 10:05:00 +0000</pubDate>
-      <itunes:duration>923</itunes:duration>
+      <itunes:duration>953</itunes:duration>
     </item>
     <item>
       <title>Million Bazillion - What’s the difference between capitalism, socialism, and communism?</title>
@@ -127,6 +119,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/06/09/millionbazillion_20260609_S10_Midnight_Rebellion_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KTQ1JJQ5718WPYNZ035B99F0" length="18358987" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:19:07</itunes:duration>
+    </item>
+    <item>
+      <title>Million Bazillion - Why did the U.S. stop making pennies?</title>
+      <description>&lt;p&gt;Bridget and Ryan are approached by a big film producer to write the next summer blockbuster — a movie all about the penny! The timing couldn’t be better because so many of you have been wanting to know: why did the U.S. stop making pennies? The answer comes down to dollars and cents. But … will this be “Million Bazillion”’s big break into Hollywood? Listen now to find out. &lt;/p&gt;</description>
+      <guid isPermaLink="false">01KTQ3QFV1EYA3SX1NJD94DSGK</guid>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/06/16/millionbazillion_20260616_MB_S10_E8_Pennies_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KTQ3QFV1EYA3SX1NJD94DSGK" length="29742440" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:30:58</itunes:duration>
     </item>
   </channel>
 </rss>
