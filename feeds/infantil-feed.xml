@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:27:26 +0000</lastBuildDate>
-    <item>
-      <title>Million Bazillion - Why does the price of gas go up and down?</title>
-      <description>&lt;p&gt;If you’re anything like “Million Bazillion” listener, Elijah, you may have noticed gas prices change from one day to the next, sometimes by a few pennies, sometimes by a lot more. Why does that happen? Ryan and Bridget’s search for answers turns into a much bigger adventure when a falling star and misplaced wish mean Ryan’s car suddenly comes to life and takes them on a wild road trip. Together, Bridget and Ryan learn what the price we pay at the pump has to do with global forces and crude oil's long journey to becoming gas in our fuel tanks.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If your family is interested in learning even more about today’s question, check out our &lt;a class="default" href="https://www.marketplace.org/episode/2026/04/21/why-does-the-price-of-gas-go-up-and-down"&gt;website&lt;/a&gt;. We’ve got conversation starters and a tip sheet!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Love the show? You can help make it happen. Donate what you can at marketplace.org/givemillion.&lt;/p&gt;</description>
-      <guid isPermaLink="false">01KP71VMC4S1DQ3YGZM86S90Z4</guid>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/04/21/millionbazillion_20260421_S10_E2_Gas_Prices_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KP71VMC4S1DQ3YGZM86S90Z4" length="31005517" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Apr 2026 10:15:00 +0000</pubDate>
-      <itunes:duration>00:32:17</itunes:duration>
-    </item>
+    <lastBuildDate>Fri, 19 Jun 2026 10:40:30 +0000</lastBuildDate>
     <item>
       <title>Mysteries of Science - The Truth About Dragons</title>
       <description>&lt;p&gt;Dan and Ciaran open an archive case: Are dragons real?&lt;/p&gt; &lt;p&gt;Why do stories of fire-breathing, winged beasts appear in cultures across the world &amp;ndash; and can science explain their origins?&lt;/p&gt; &lt;p&gt;We're on the quest for answers; from Viking myths to Chinese legends, dinosaur fossils, and even the lair of real-life Komodo dragons. Legendary author Cressida Cowell, dino-expert Nick Crumpton, and Chester Zoo&amp;rsquo;s own Komodo dragon keeper, Matthew Cook help unpick which mysteries are real and which ones are rubbish.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
@@ -127,6 +119,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2026/06/16/millionbazillion_20260616_MB_S10_E8_Pennies_128.mp3?awCollectionId=mkp-MilBaz&amp;awEpisodeId=01KTQ3QFV1EYA3SX1NJD94DSGK" length="29742440" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:30:58</itunes:duration>
+    </item>
+    <item>
+      <title>Mysteries of Science - Fairies and other amazing hoaxes</title>
+      <description>&lt;p&gt;We're in the archives for another episode of Mysteries of Science. In our first of season three, released on April Fool's Day, hosts Dan, Stevie, and Michael take a deep dive into three of the most famous scientific hoaxes. We're looking at the Cottingley Fairy photographs, crop circles, and zero gravity day...&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <guid isPermaLink="false">76df7cde-6add-42ca-b65a-b46a00ed75ee</guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/76df7cde-6add-42ca-b65a-b46a00ed75ee/audio.mp3?utm_source=Podcast&amp;in_playlist=028c0140-45a3-4bd6-b6a0-acf300c85232" length="27101436" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 23:00:00 +0000</pubDate>
+      <itunes:duration>1692</itunes:duration>
     </item>
   </channel>
 </rss>
