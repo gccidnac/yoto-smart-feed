@@ -101,7 +101,7 @@ def generate_feeds():
         fg.description(f"Combined playlist for Yoto Player generated from {file}")
         fg.language('en')
 
-        for ep in all_episodes[:15]:
+        for ep in reversed(all_episodes[:20]):
             fe = fg.add_entry()
             fe.title(ep['title'])
             fe.description(ep['description'])
