@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:46:35 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - ¿Cómo se limpia el agua?</title>
+      <description>El agua está en todas partes, pero ¿qué pasa cuando se contamina? 💧🌎 En este episodio, Rodrigo Sepúlveda, profesor de la Universidad Nacional Autónoma de México y especialista en ingeniería ambiental, nos ayuda a descubrir cómo llegan los contaminantes a ríos, lagos, presas y qué pequeñas acciones podemos hacer cada día para proteger este recurso indispensable. 💦  ➡️ Organización invitada: Universidad Nacional Autónoma de México (UNAM) 💬 ¡Envía las preguntas de tus hijos para los episodi...</description>
+      <guid isPermaLink="false">Buzzsprout-19662742</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19662742-como-se-limpia-el-agua.mp3" length="16665934" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>1380</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Quetzal: el ave sagrada de los bosques de Centroamérica 🦜</title>
       <description>Dicen que nació del soplido de los dioses, que sus plumas valían más que el oro, y que jamás podría vivir encerrado. Hoy, Kike Heredia, divulgador de ciencia y creador de Pajareando Ando, nos cuenta la verdad detrás de la leyenda del quetzal: por qué vive dentro de las nubes, cómo planta árboles sin darse cuenta, y qué tiene que ver su cola con una serpiente. Un episodio sobre el ave más libre y más amenazada de los bosques de Centroamérica. ➡️ Pajareando Ando — Pichucalco, Chiapas 💬 ¡Envía l...</description>
       <guid isPermaLink="false">Buzzsprout-19640274</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19640274-quetzal-el-ave-sagrada-de-los-bosques-de-centroamerica.mp3" length="19681666" type="audio/mpeg"/>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19640274-quetzal-el-ave-sagrada-de-los-bosques-de-centroamerica.mp3" length="20114631" type="audio/mpeg"/>
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-      <itunes:duration>1633</itunes:duration>
+      <itunes:duration>1669</itunes:duration>
     </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - ¿Cómo llega el agua a las ciudades?</title>
@@ -76,9 +84,9 @@
       <title>Cráneo: Ciencia para niños curiosos - ¿Por qué la soldadura produce chispas?</title>
       <description>¿Sabías que el arco de soldadura puede llegar a estar incluso más caliente que la superficie del Sol? 🔥 Esta semana conocemos a Rudy Rodríguez, instructor de soldadura en la Escuela Secundaria Weimar, en Weimar, Texas. Juntos descubrimos cómo los soldadores utilizan el calor para unir piezas de metal, por qué usan cascos especiales, qué provoca esas brillantes chispas y cómo la soldadura ayuda a construir desde parques infantiles y montañas rusas hasta puentes, aviones e incluso cohetes. ➡️ E...</description>
       <guid isPermaLink="false">54ee0f13-f37c-44cd-9653-75a5c08c1f3b</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614326-por-que-la-soldadura-produce-chispas.mp3" length="22250946" type="audio/mpeg"/>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614326-por-que-la-soldadura-produce-chispas.mp3" length="22683911" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jul 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1849</itunes:duration>
+      <itunes:duration>1885</itunes:duration>
     </item>
     <item>
       <title>Sapiensantes - Sapiensantes - T4 - E5. Gymcana preguntona: gatos, perros, gallinas y otros</title>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614332-tortuga-del-desierto-sobrevivir-en-el-desierto-mas-caliente-de-america.mp3" length="19486917" type="audio/mpeg"/>
       <pubDate>Thu, 25 Jun 2026 10:30:00 +0000</pubDate>
       <itunes:duration>1619</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - Reacciones nucleares: la energía que impulsa ciudades</title>
-      <description>¿De dónde viene la energía que usamos todos los días? En este episodio de Cráneo, viajamos hasta el interior de los átomos para descubrir qué son las reacciones nucleares y por qué pueden liberar cantidades enormes de energía. Junto a la Dra. Marvi Matos Rodríguez, ingeniera, científica y líder de investigación en Zap Energy, exploramos la diferencia entre fisión y fusión, aprendemos cómo el Sol brilla gracias a reacciones nucleares, cómo una planta nuclear puede producir electricidad para ci...</description>
-      <guid isPermaLink="false">150fa990-b8c3-4402-a816-5ba5a299abed</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614333-reacciones-nucleares-la-energia-que-impulsa-ciudades.mp3" length="18068128" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Jun 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1501</itunes:duration>
     </item>
   </channel>
 </rss>
