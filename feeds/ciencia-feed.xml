@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:16:55 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - Inundaciones por huracanes: ¿Cómo un huracán mueve tanta agua?</title>
+      <description>Hoy conversamos con Sandy Delgado, un experto del Centro Nacional de Huracanes, de la NOAA, sobre los huracanes y cómo es que causan inundaciones tan fuertes.  Pregunta para conversar en familia: Si nos dijeran que debemos evacuar nuestra casa por una emergencia, ¿cuáles serían las tres cosas más importantes que cada uno guardaría en su mochila y por qué? ➡️ Organización invitada: NOAA Videos de episodios con las ilustraciones  🔗 Canal de Cumbre Kids en YouTube: https://bit.ly/4wzUhmU&amp;nb...</description>
+      <guid isPermaLink="false">Buzzsprout-19733414</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19733414-inundaciones-por-huracanes-como-un-huracan-mueve-tanta-agua.mp3" length="14705571" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1217</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - La Madre de la Culebra: ¿serpiente o escarabajo?</title>
       <description>¿Sabías que en los bosques de Chile vive una criatura tan temida que le pusieron el nombre de LA MADRE DE LA CULEBRA!? Se dice que es gigante, que se mueve como serpiente... ¡y que trae mala suerte! Pero Cráneos, ni siquiera es una serpiente. Para separar eso de la mala suerte de la realidad, en este episodio nos acompaña Gabriela Pérez Garcés, dueña de un museo de insectos en Santiago de Chile.  Conversa con los Cráneo: Si tuvieras que pasar 7 años escondido dentro de un tronco como la ...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://ztnr.rtve.es/ztnr/17136451.mp3" length="59864685" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 05:00:12 +0000</pubDate>
       <itunes:duration>00:24:56</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - (Reposición) Clima Vs. Tiempo</title>
-      <description>🌦️ Este episodio descubrimos la diferencia entre el tiempo y el clima junto a Joan Ballista, educadora de The Museum of Life and Science, a través de preguntas curiosas, explorarán por qué el tiempo puede cambiar de un momento a otro, por qué algunos lugares son lluviosos y otros secos, cómo se forman las condiciones meteorológicas y de qué manera los científicos usan satélites, anillos de los árboles y capas de hielo para comprender el pasado y predecir el futuro del clima. Un episodio perfe...</description>
-      <guid isPermaLink="false">2bc1c052-9512-4171-9ae5-ff834cc1b3d9</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614331-reposicion-clima-vs-tiempo.mp3" length="17449434" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Jun 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1451</itunes:duration>
     </item>
   </channel>
 </rss>
