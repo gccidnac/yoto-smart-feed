@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:48:35 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - (Reposición) ¿Cómo los científicos encuentran especies?</title>
+      <description>¡En la tierra 🌎 hay millones de especies que aún están por descubrirse! Acompáñanos en este episodio especial con el biólogo Carlos Velazco, donde aprenderemos cómo los científicos encuentran y nombran nuevas especies. Este episodio es producido a propósito de La Semana Latina de la Conservación, en colaboración con Hispanic Access Foundation y iNaturalist.   🌿Aprende más en Latino Conservation Week: Conocer Videos de episodios con las ilustraciones  🔗 Canal de Cumbre Kids en YouTube: https:/...</description>
+      <guid isPermaLink="false">Buzzsprout-19769648</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19769648-reposicion-como-los-cientificos-encuentran-especies.mp3" length="19034151" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>1579</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Inundaciones por huracanes: ¿Cómo un huracán mueve tanta agua?</title>
       <description>Hoy conversamos con Sandy Delgado, un experto del Centro Nacional de Huracanes, de la NOAA, sobre los huracanes y cómo es que causan inundaciones tan fuertes.  Pregunta para conversar en familia: Si nos dijeran que debemos evacuar nuestra casa por una emergencia, ¿cuáles serían las tres cosas más importantes que cada uno guardaría en su mochila y por qué? ➡️ Organización invitada: NOAA Videos de episodios con las ilustraciones  🔗 Canal de Cumbre Kids en YouTube: https://bit.ly/4wzUhmU&amp;nb...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614330-lagos-de-hielo-bajo-el-sol-tropical.mp3" length="15741077" type="audio/mpeg"/>
       <pubDate>Tue, 07 Jul 2026 10:30:00 +0000</pubDate>
       <itunes:duration>1305</itunes:duration>
-    </item>
-    <item>
-      <title>Sapiensantes - Sapiensantes - T4 - E3- ¿Por qué tenemos cosquillas?</title>
-      <description>&lt;p&gt;&amp;iquest;Por qu&amp;eacute; las personas &lt;strong&gt;tenemos cosquillas&lt;/strong&gt;? &amp;iquest;Por qu&amp;eacute; las rechazamos y a la vez nos hacen re&amp;iacute;r? En este episodio, &lt;strong&gt;los Sapiensantes&lt;/strong&gt; quieren entender el mecanismo detr&amp;aacute;s de esta sensaci&amp;oacute;n tan contradictoria. Junto a &lt;strong&gt;Xaviera Torres&lt;/strong&gt;, conocer&amp;aacute;n los tipos de cosquillas que existen y c&amp;oacute;mo podemos evitarlas.&lt;/p&gt;&lt;div&gt;&lt;br /&gt;&lt;a href="https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e3-tenemos-cosquillas/17136451/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img alt="" src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;amp;cg=F-N-B-TERNE-TERPROGR-TERMAGAZ-TESHORAA&amp;amp;si=https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e3-tenemos-cosquillas/17136451/" /&gt;</description>
-      <guid isPermaLink="false">https://www.rtve.es/a/17136451/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17136451.mp3" length="59864685" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Jul 2026 05:00:12 +0000</pubDate>
-      <itunes:duration>00:24:56</itunes:duration>
     </item>
   </channel>
 </rss>
