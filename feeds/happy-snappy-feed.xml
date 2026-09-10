@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:51:24 +0000</lastBuildDate>
+    <item>
+      <title>Sparkle Stories Podcast - "Part One: An Introduction" from the I Am Marvel (How I Became Super) collection.</title>
+      <description>&lt;p&gt;This week's featured story comes from the I Am Marvel (How I Became Super) collection. It's called "Part One: An Introduction."&lt;/p&gt; &lt;p&gt;One Saturday morning, a seemingly ordinary husband, father, and elementary school teacher learns that he has the "mark" of a superhero. The moment he decides to rediscover lost superpowers from his youth, his eyes are opened to community of curious local folk who teach him How to Be Super.&lt;/p&gt; &lt;p&gt;If you enjoyed that story, there are hundreds and hundreds more where that came from. Try a Sparkle subscription now - for free. Go to www.sparklestories.com and click the button at the top that says "Start Free Trial," then you can listen to our giant library as much as you like, anytime you like.&lt;/p&gt; &lt;p&gt;Each week on the Sparkle Stories Podcast, we share a free story from one of our original story series!&lt;/p&gt; &lt;p&gt;For many many many more stories like this one, visit the Sparkle website: &lt;a href="https://www.sparklestories.com"&gt;www.sparklestories.com&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Questions?  Ideas?  Requests?&lt;/p&gt; &lt;p&gt;Email us!  &lt;a href="mailto:info@sparklestories.com"&gt;info@sparklestories.com&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Enjoy!&lt;/p&gt;</description>
+      <guid isPermaLink="false">db27959c-fa7a-458f-960f-0cf257683009</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/sparklestories/2026_September_-_Week_2_-_I_Am_Marvel_Part_1.mp3?dest-id=153942" length="58003991" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 13:59:00 +0000</pubDate>
+      <itunes:duration>24:05</itunes:duration>
+    </item>
     <item>
       <title>Story Pirates - DJ Squirm-a-Lot’s Back to School Mixtape 2026</title>
       <description>It’s time once again to go back to school with the world’s most famous DJ who also happens to be a worm!</description>
@@ -228,13 +236,6 @@ Join the Summer Story Challenge and get double the ad-free episodes this summer 
       <enclosure url="https://sphinx.acast.com/p/open/s/62cebd180ce17d0012d3347b/e/6a7c7fab91cf66ecf895930b/media.mp3" length="47710928" type="audio/mpeg"/>
       <pubDate>Wed, 12 Aug 2026 23:00:00 +0000</pubDate>
       <itunes:duration>19:52</itunes:duration>
-    </item>
-    <item>
-      <title>Sparkle Stories Podcast - "Chapter One: The Anomaly in Greenhorn" from the Life as a Martian collection</title>
-      <guid isPermaLink="false">f68109ec-075e-436d-a143-a6fa7c21e108</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/sparklestories/2026_August_-_Week_2_-_Life_as_a_Martian_-_Chapter_One_-_The_Anomaly_in_Greenhorn_-_Updated_Fourth_Planet.mp3?dest-id=153942" length="66903515" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:05:00 +0000</pubDate>
-      <itunes:duration>27:48</itunes:duration>
     </item>
   </channel>
 </rss>
