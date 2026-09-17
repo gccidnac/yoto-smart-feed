@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:11:55 +0000</lastBuildDate>
+    <item>
+      <title>Story Pirates - How to Make Walka-Moly</title>
+      <description>Have you ever tried to make a recipe you found online, but it’s…weird? Written by two siblings, Arabella and Emmet from the Philippines.</description>
+      <guid isPermaLink="false">10d507b2-9d7f-11f1-ac3a-1fa4cbd7bff1</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME4189142098.mp3" length="10000000" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1059</itunes:duration>
+    </item>
+    <item>
+      <title>Sparkle Stories Podcast - "Super Silks" from the Martin &amp; Sylvia: Saturdays! collection</title>
+      <guid isPermaLink="false">0f1b4229-f1a6-4f8c-ab4f-7e930e6d012e</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/sparklestories/2026_September_-_Week_3_-_Saturdays_-_Super_Silks.mp3?dest-id=153942" length="47476645" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+      <itunes:duration>19:42</itunes:duration>
+    </item>
     <item>
       <title>What If World - Stories for Kids - 408. Nate asks: What if a chair broke with snakes inside? (w/Zoe Goldman)</title>
       <description>Fred and Abacus visit the Getty Museum, and see a chair that keeps making them think about snakes! Special guest Zoe Goldman shows us that there's no cutting corner with art, even if you have magic.
@@ -214,32 +229,6 @@ Get double the ad-free episodes this summer by joining Creator Club at ⁠storyp
       <enclosure url="https://sphinx.acast.com/p/open/s/62cebd180ce17d0012d3347b/e/6a82d69355b9192dc91715ab/media.mp3" length="8538488" type="audio/mpeg"/>
       <pubDate>Mon, 17 Aug 2026 23:00:00 +0000</pubDate>
       <itunes:duration>17:47</itunes:duration>
-    </item>
-    <item>
-      <title>What If World - Stories for Kids - 405. Pietown #3: What if frogs invaded with magic?</title>
-      <description>Subscribe at whatifworld.fun, Support the show, and get our Yoto Cards!
-
-A flying gorilla, a young junkodile, and an unreliable wizard must save New What City from a frog invasion!
-
-Themes include: Language is magic; understanding unfamiliar people.
-
-Want more kids podcasts for the whole family? Grown-ups, subscribe to Starglow+ here. Learn more about Starglow Media here. Follow Starglow on Instagram and YouTube
-
-Share questions with a grown-up's help via email: hello@whatifworldpodcast.com or voicemail: 205-605-WHAT (9428)
-
-Eric and Karen O'Keeffe make What If World. Our producer is Miss Lynn. Character art by Ana Stretcu, episode art by Lynn Hickernell, podcast art by Jason O’Keefe, and theme song by Craig Martinson.</description>
-      <guid isPermaLink="false">8a2c9442-4594-11f1-b5e5-43662d225917</guid>
-      <enclosure url="https://traffic.megaphone.fm/STM8688207225.mp3" length="10000000" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 +0000</pubDate>
-      <itunes:duration>1544</itunes:duration>
-    </item>
-    <item>
-      <title>Yoto Daily - Imagidance with Pema</title>
-      <description>&lt;p&gt;A shooting star, a giant making a teeny tiny painting - time for an Imagidance with Pema!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If you loved this episode, download the Yoto app to listen to the rest of the week's Yoto Daily episodes for free.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If you want to share your artwork with Jake and Pema, or contribute your own joke for the Friyay jokes round up, check out&amp;nbsp;&lt;a href="http://yoto.space/" rel="noopener noreferrer" target="_blank"&gt;yoto.space&lt;/a&gt;!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Did you know you can tune into&amp;nbsp;Yoto Daily&amp;nbsp;for fun facts and trivia, jokes, and riddles each and every day? Access all episodes of Yoto Daily by downloading the&amp;nbsp;&lt;a href="https://uk.yotoplay.com/the-yoto-app" rel="noopener noreferrer" target="_blank"&gt;Yoto App&lt;/a&gt;. You'll find a world of kids' radio, and you don't need a Yoto Player to use it.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Follow us at @yotoplay on&amp;nbsp;&lt;a href="https://www.instagram.com/yotoplay/" rel="noopener noreferrer" target="_blank"&gt;Instagram&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/yotoplay" rel="noopener noreferrer" target="_blank"&gt;Facebook&lt;/a&gt;!&lt;/p&gt;&lt;hr /&gt;&lt;p style="color: grey; font-size: 0.75em;"&gt; Hosted on Acast. See &lt;a href="https://acast.com/privacy" rel="noopener noreferrer" style="color: grey;" target="_blank"&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
-      <guid isPermaLink="false">6a7f28fbf8e81c4395ede506</guid>
-      <enclosure url="https://sphinx.acast.com/p/open/s/62cebd180ce17d0012d3347b/e/6a7f28fbf8e81c4395ede506/media.mp3" length="121933964" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2026 23:00:00 +0000</pubDate>
-      <itunes:duration>14:02</itunes:duration>
     </item>
   </channel>
 </rss>
