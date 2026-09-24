@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:17:51 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - ¿Qué pasa cuando caen las hojas? La sorpresa del otoño</title>
+      <description>¿Sabías que debajo de las hojas secas puede haber hasta 1.800 insectos en un metro cuadrado? Cráneos, después de este episodio, nunca más voy a poder ver las hojas secas de mi cuadra de la misma forma. Pero lo más increíble no es ese número: es todo lo que tiene que pasar para que esas hojas se caigan, cómo se descomponen, quiénes participan en ese proceso, y cómo se relaciona con animales que ni imaginas. Así que como yo ya no voy a ver el otoño igual, no me iba a quedar con las ganas de con...</description>
+      <guid isPermaLink="false">Buzzsprout-19855761</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19855761-que-pasa-cuando-caen-las-hojas-la-sorpresa-del-otono.mp3" length="19523686" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>1623</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Nutrias Marinas: la criatura que duerme tomada de la mano</title>
       <description>¿Sabías que hay un animal que duerme flotando en el mar, tomado de la mano con sus amigos para no irse a la deriva!? Todo empezó con una carta misteriosa que encontramos dentro de una botella en la playa... Para ayudarnos a descifrarla, en este episodio nos acompaña Luis Cruz, de Hispanic Access Foundation y voluntario en un acuario cerca de Monterey, California, donde trabaja directamente con nutrias marinas. ¡Y tenemos a nuestra amiga cohost para ayudarnos a conocer a esta criatura del mar!...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614328-reposicion-abeja-calabacera-solitaria-excavadora.mp3" length="22221002" type="audio/mpeg"/>
       <pubDate>Tue, 14 Jul 2026 10:30:00 +0000</pubDate>
       <itunes:duration>1846</itunes:duration>
-    </item>
-    <item>
-      <title>Sapiensantes - Sapiensantes - T4 - E4. ¿Por qué tenemos que ponernos crema del sol?</title>
-      <description>&lt;p&gt;&amp;iquest;Con cu&amp;aacute;nta frecuencia te echas crema solar? &amp;iquest;Entiendes lo que significa la numeraci&amp;oacute;n del factor de protecci&amp;oacute;n? En este cap&amp;iacute;tulo de &lt;em&gt;Sapiensantes&lt;/em&gt;, &lt;strong&gt;Xaviera Torres&lt;/strong&gt; advierte sobre los peligros de la radiaci&amp;oacute;n ultravioleta y explica por qu&amp;eacute; debemos protegernos de ella utilizando crema solar. Por muchos bulos que hablen en contra.&lt;/p&gt;&lt;div&gt;&lt;br /&gt;&lt;a href="https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e4-tenemos-ponernos-crema-del-sol/17148255/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img alt="" src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;amp;cg=F-N-B-TERNE-TERPROGR-TERMAGAZ-TESHORAA&amp;amp;si=https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e4-tenemos-ponernos-crema-del-sol/17148255/" /&gt;</description>
-      <guid isPermaLink="false">https://www.rtve.es/a/17148255/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17148255.mp3" length="59199405" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Jul 2026 05:00:49 +0000</pubDate>
-      <itunes:duration>00:24:39</itunes:duration>
     </item>
   </channel>
 </rss>
