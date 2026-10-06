@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:56:37 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - Minas: ¿cómo se extraen los minerales?</title>
+      <description>Hoy conversamos con Deysa Hernández, ingeniera venezolana que trabaja en Chile con minas de cobre, sobre qué son las minas, qué tipos existen y dónde encontramos los minerales en nuestra vida diaria. Pregunta para conversar en familia: Miren a su alrededor y busquen 3 objetos que tengan cerca: ¿cuáles creen que vienen de una mina y por qué? Este episodio forma parte de la serie Ciencia con Panas, que destaca a científicos venezolanos 🇻🇪. Estamos dedicando este mes a apoyar a las familias damn...</description>
+      <guid isPermaLink="false">Buzzsprout-19917094</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19917094-minas-como-se-extraen-los-minerales.mp3" length="18567801" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Electricidad: la energía que mueve el mundo y tu propio cuerpo</title>
       <description>Tu cuerpo funciona con electricidad. Cada vez que piensas, te mueves o tu corazón late, hay una señal eléctrica detrás. En este episodio de Cráneo, Luis Villegas, ingeniero eléctrico venezolano, responde las preguntas de los niños: qué es la electricidad, cómo se forman los rayos y cómo llega la luz hasta tu casa. Desliza. Enlaces de Cráneo ⚛️ Únete a "⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠El Club de los Curiosos⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠" 📱 Envía las preguntas de tus peques: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614326-por-que-la-soldadura-produce-chispas.mp3" length="22250946" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jul 2026 10:30:00 +0000</pubDate>
       <itunes:duration>1849</itunes:duration>
-    </item>
-    <item>
-      <title>Sapiensantes - Sapiensantes - T4 - E5. Gymcana preguntona: gatos, perros, gallinas y otros</title>
-      <description>&lt;p&gt;La higiene dental de los gatos; el llanto sin l&amp;aacute;grimas de los perros; la visi&amp;oacute;n nocturna de ciervos y renos.... El reino animal desata la curiosidad de los ni&amp;ntilde;os que comparan aves, peces y mascotas y lo encuentran todo muy diferenet a lo humano. En este episodio, las preguntas se amontonan y &lt;strong&gt;Paula y Xaviera&lt;/strong&gt; enfrentan una aut&amp;eacute;ntica &lt;strong&gt;gymcana &lt;/strong&gt;para resolverlas.&lt;/p&gt;&lt;div&gt;&lt;br /&gt;&lt;a href="https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e5-gymcana-preguntona-gatos-perros-gallinas-otros/17156403/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img alt="" src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;amp;cg=F-N-B-TERNE-TERPROGR-TERRNE19P-SHOSAPRNE&amp;amp;si=https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e5-gymcana-preguntona-gatos-perros-gallinas-otros/17156403/" /&gt;</description>
-      <guid isPermaLink="false">https://www.rtve.es/a/17156403/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17156403.mp3" length="57671085" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jul 2026 07:42:02 +0000</pubDate>
-      <itunes:duration>00:24:01</itunes:duration>
     </item>
   </channel>
 </rss>
