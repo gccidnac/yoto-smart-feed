@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:00:21 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - El Naranjo y la Computadora: cuando la tecnología cuida el campo</title>
+      <description>¿Un naranjo trabajando con una computadora? Suena raro, pero pasa todos los días en el campo. En este episodio de Ciencia con Panas, Barlin Olivares, ingeniero agrónomo venezolano, nos cuenta cómo crece una naranja, qué insectos la atacan y cómo los drones, las cámaras y las computadoras ayudan a cuidar miles de árboles a la vez.  Este episodio forma parte de la serie Ciencia con Panas, que destaca a científicos venezolanos 🇻🇪. Estamos dedicando este mes a apoyar a las familias damnifica...</description>
+      <guid isPermaLink="false">Buzzsprout-19964969</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19964969-el-naranjo-y-la-computadora-cuando-la-tecnologia-cuida-el-campo.mp3" length="22474000" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>1865</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Microchips: la clave de las computadoras</title>
       <description>¿Sabías que dentro de un microchip hay una "ciudad" entera del tamaño de la punta de tu dedo? 🤏✨ En este episodio platicamos con la Dra. Sulmer, ingeniera eléctrica y profesora en la Universidad de Portland, sobre la ciencia detrás de los microchips, de qué están hechos y cómo transformaron nuestro día a día. Pregunta para conversar en familia: Si de repente desaparecieran todos los microchips del mundo, ¿cuál sería el objeto de tu casa que más extrañarías y por qué? Este episodio forma parte...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://ztnr.rtve.es/ztnr/17165846.mp3" length="63819885" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 05:00:14 +0000</pubDate>
       <itunes:duration>00:26:35</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - Mamba Negra: la serpiente más temida de África</title>
-      <description>La mamba negra tiene fama de ser el animal más temido de África: dicen que ataca sin avisar, a cualquiera que se le cruce. Pero hoy, Álvaro Camina, responsable del pabellón de veneno del parque Faunia en Madrid, viene a investigar ese chisme. Los Cráneos van a descubrir por qué se llama negra si en realidad es gris, cómo usa la lengua para oler el mundo, y qué hace exactamente su veneno dentro del cuerpo. Y al final del episodio, Álvaro resuelve la gran pregunta: ¿realmente ataca sin avisar? ...</description>
-      <guid isPermaLink="false">228ad8ce-99c7-4d74-b00a-ede578f4ef3c</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614325-mamba-negra-la-serpiente-mas-temida-de-africa.mp3" length="18571075" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Jul 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1542</itunes:duration>
     </item>
   </channel>
 </rss>
