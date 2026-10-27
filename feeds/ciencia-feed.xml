@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:45:15 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - Urumaco: Tierra de gigantes prehistóricos</title>
+      <description>¿Un cocodrilo más grande que un autobús y una tortuga del tamaño de un carro? 🚗💨 Viajamos hasta Urumaco junto a Karen Brewer-Carías (exploradora y conservacionista) para descubrir animales impresionantes de la prehistoria y la increíble biodiversidad de nuestro planeta. 🌿 Pregunta para conversar en familia: ¿Cuál de los gigantes de Urumaco te hubiera gustado conocer en persona y por qué? Este episodio forma parte de la serie Ciencia con Panas, que destaca a científicos venezolanos 🇻🇪. Estamos...</description>
+      <guid isPermaLink="false">Buzzsprout-20025560</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20025560-urumaco-tierra-de-gigantes-prehistoricos.mp3" length="16690271" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1383</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Cotorra Margariteña: el ave que sobrevivió al borde de la extinción</title>
       <description>En la isla de Margarita hay un bosque que pasa casi todo el año sin lluvia. Y ahí vive un loro verde que en el mundo entero casi solo existe en ese lugar: la cotorra margariteña  En este episodio, Luis Guevara, biólogo de Provita, nos cuenta cómo sobrevive el bosque seco de Macanao, por qué está en peligro y cómo la gente de la isla ha sembrado más de 17.000 árboles para salvarlo. Este episodio forma parte de la serie Ciencia con Panas, que destaca a científicos venezolanos 🇻🇪. Estamos d...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://ztnr.rtve.es/ztnr/17173462.mp3" length="57697965" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 05:00:09 +0000</pubDate>
       <itunes:duration>00:24:02</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - Rana Dorada de Panamá: el animal nacional que desapareció</title>
-      <description>En algún lugar del bosque de Panamá hay un cartel pegado en un árbol que dice: SE BUSCA. Última vez vista: 2009. La rana dorada lleva más de una década desaparecida de la naturaleza, y hoy Gina Della Togna, científica y directora de The Amphibian Survival Alliance, nos cuenta qué le pasó, por qué un hongo microscópico que viaja por el agua está detrás de su desaparición, y qué están haciendo los científicos para traerla de vuelta. Un episodio sobre uno de los animales más importantes y más am...</description>
-      <guid isPermaLink="false">57de5a99-0514-446d-9a29-5a8216fe5c6d</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614211-rana-dorada-de-panama-el-animal-nacional-que-desaparecio.mp3" length="19686401" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jul 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1635</itunes:duration>
     </item>
   </channel>
 </rss>
