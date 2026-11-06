@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:53:01 +0000</lastBuildDate>
+    <item>
+      <title>Mysteries of Science - Can we fix climate change?</title>
+      <description>&lt;p&gt;From the archives, an urgent case. The planet is sending signals: melting ice, wilder storms and shifting seasons. Can we crack this one before it’s too late?&lt;/p&gt; &lt;p&gt;Dan and Michael start with the basics. Channel 4 News weather presenter Liam Dutton explains the difference between weather and climate, why greenhouse gases trap heat, and what almost twenty years of forecasting has shown him about records being broken.&lt;/p&gt; &lt;p&gt;Then it’s on to the solutions, and some are stranger than you’d expect. Author Nicola Penfold makes the case for whale poo as a climate hero, Cindy Forde of Planetari describes solar panels printed onto windows and mangroves that lock away more carbon than rainforests, and young campaigners Amy and Ella Meek and Bella Lack explain where to start when a problem feels far too big.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <guid isPermaLink="false">f01cd43e-76ba-48be-aff3-b4bf010794a6</guid>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/f01cd43e-76ba-48be-aff3-b4bf010794a6/audio.mp3?utm_source=Podcast&amp;in_playlist=028c0140-45a3-4bd6-b6a0-acf300c85232" length="25958730" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1620</itunes:duration>
+    </item>
     <item>
       <title>Million Bazillion - How do AI companies make money?</title>
       <description>&lt;p&gt;After Ryan builds his own hip-hop dancing generative AI companion, he and Bridget visit an AI data center to answer Lyric’s question: how do AI companies make money? That’s where they learn why all the money pouring into AI doesn’t mean profits for everyone yet. But the duo get more than they bargain for when an AI data scientist tries to pull the plug!&lt;/p&gt;</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/53f58601-cde8-4346-b99c-b489008da3d5/audio.mp3?utm_source=Podcast&amp;in_playlist=028c0140-45a3-4bd6-b6a0-acf300c85232" length="21809219" type="audio/mpeg"/>
       <pubDate>Fri, 17 Jul 2026 12:56:39 +0000</pubDate>
       <itunes:duration>1361</itunes:duration>
-    </item>
-    <item>
-      <title>Mysteries of Science - Fairies and other amazing hoaxes</title>
-      <description>&lt;p&gt;We're in the archives for another episode of Mysteries of Science. In our first of season three, released on April Fool's Day, hosts Dan, Stevie, and Michael take a deep dive into three of the most famous scientific hoaxes. We're looking at the Cottingley Fairy photographs, crop circles, and zero gravity day...&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <guid isPermaLink="false">76df7cde-6add-42ca-b65a-b46a00ed75ee</guid>
-      <enclosure url="https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/76df7cde-6add-42ca-b65a-b46a00ed75ee/audio.mp3?utm_source=Podcast&amp;in_playlist=028c0140-45a3-4bd6-b6a0-acf300c85232" length="27101436" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Jun 2026 23:00:00 +0000</pubDate>
-      <itunes:duration>1692</itunes:duration>
     </item>
   </channel>
 </rss>
