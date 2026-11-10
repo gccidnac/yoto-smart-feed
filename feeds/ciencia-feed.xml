@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:29:27 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - Murciélagos: El único mamífero volador del mundo</title>
+      <description>¿Sabías que los murciélagos son los únicos mamíferos capaces de volar y que algunos pueden tener alas de hasta 1,70 metros? 🦇✨ En este episodio descubrimos el fascinante mundo de los murciélagos junto a María Luisa Rosell, de la National Wildlife Federation. Aprenderemos cómo funcionan sus increíbles alas, cómo pueden orientarse en la oscuridad sin chocar con nada y por qué son verdaderos superhéroes de la naturaleza: ayudan a sembrar árboles, polinizan flores y se comen miles de insectos cad...</description>
+      <guid isPermaLink="false">Buzzsprout-20100945</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20100945-murcielagos-el-unico-mamifero-volador-del-mundo.mp3" length="15692148" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1302</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Guepardo: el más rápido del planeta y su secreto de 20 segundos</title>
       <description>El guepardo puede correr a más de 100 kilómetros por hora. Pero solo aguanta unos 20 segundos, y después necesita descansar, a veces durante horas. En este episodio, Rubén Portas, científico que vive en Namibia y estudia guepardos en libertad, nos cuenta cómo hace este animal para ser tan rápido, por qué cada guepardo tiene manchas únicas y cómo los científicos los protegen.  Enlaces de Cráneo ⚛️ Únete a "⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠El Club de los Curiosos⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠" 📱 Envía ...</description>
       <guid isPermaLink="false">Buzzsprout-20076048</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20076048-guepardo-el-mas-rapido-del-planeta-y-su-secreto-de-20-segundos.mp3" length="21737261" type="audio/mpeg"/>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20076048-guepardo-el-mas-rapido-del-planeta-y-su-secreto-de-20-segundos.mp3" length="21845408" type="audio/mpeg"/>
       <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>1805</itunes:duration>
+      <itunes:duration>1814</itunes:duration>
     </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Urumaco: Tierra de gigantes prehistóricos</title>
@@ -159,14 +167,6 @@
       <enclosure url="https://ztnr.rtve.es/ztnr/17179109.mp3" length="69962925" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 05:00:58 +0000</pubDate>
       <itunes:duration>00:29:09</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - ¿Los fósiles son roca o hueso?</title>
-      <description>Los fósiles son como páginas de un libro gigante que nos cuentan historias de la vida en la Tierra. En este episodio de Cráneo: Ciencia para niños curiosos, viajamos al pasado junto al paleontólogo Jorge Plata, del Museo de Indianápolis, para descubrir cómo se forman los fósiles, por qué algunos seres vivos logran preservarse durante millones de años y qué pistas esconden sobre animales antiguos. También aprenderemos cómo los científicos estudian las rocas para conocer la edad de un fósil y q...</description>
-      <guid isPermaLink="false">51e28a6c-e427-45b0-9b3f-6301b2171bcc</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19614210-los-fosiles-son-roca-o-hueso.mp3" length="15835959" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Aug 2026 10:30:00 +0000</pubDate>
-      <itunes:duration>1314</itunes:duration>
     </item>
   </channel>
 </rss>
