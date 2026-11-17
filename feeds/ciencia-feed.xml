@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:38:47 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - ¿Por qué las aves son dinosaurios?</title>
+      <description>¿Sabías que las aves son los únicos dinosaurios que siguen viviendo entre nosotros? 🦖🐦 En este episodio descubrimos el origen de las aves junto a Sebastián Rosadilla, paleontólogo del Laboratorio de Anatomía Comparada y Evolución de los Vertebrados del Museo Argentino de Ciencias Naturales. Aprenderemos cómo evolucionaron sus plumas, cómo surgió el vuelo y por qué algunas aves lograron sobrevivir al impacto del asteroide que acabó con la mayoría de los dinosaurios. 💬 Para conversar en familia...</description>
+      <guid isPermaLink="false">Buzzsprout-20120169</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20120169-por-que-las-aves-son-dinosaurios.mp3" length="12371065" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1024</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Murciélagos: El único mamífero volador del mundo</title>
       <description>¿Sabías que los murciélagos son los únicos mamíferos capaces de volar y que algunos pueden tener alas de hasta 1,70 metros? 🦇✨ En este episodio descubrimos el fascinante mundo de los murciélagos junto a María Luisa Rosell, de la National Wildlife Federation. Aprenderemos cómo funcionan sus increíbles alas, cómo pueden orientarse en la oscuridad sin chocar con nada y por qué son verdaderos superhéroes de la naturaleza: ayudan a sembrar árboles, polinizan flores y se comen miles de insectos cad...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19631282-como-llega-el-agua-a-las-ciudades.mp3" length="14148211" type="audio/mpeg"/>
       <pubDate>Tue, 11 Aug 2026 14:00:00 +0000</pubDate>
       <itunes:duration>1170</itunes:duration>
-    </item>
-    <item>
-      <title>Sapiensantes - Sapiensantes - T4 - E8. ¿Cómo se formó la Tierra?</title>
-      <description>&lt;p&gt;&amp;iquest;C&amp;oacute;mo se form&amp;oacute; la Tierra? &amp;iquest;Y el resto de los planetas que nos acompa&amp;ntilde;an en el sistema solar? Xaviera Torres nos ayuda a descubrirlo gracias a Universa, la voz de un maravilloso simulador para crear galaxias. Acomp&amp;aacute;&amp;ntilde;alas en este viaje en el que incluso averiguaremos c&amp;oacute;mo se uni&amp;oacute; la luna a nuestro tiovivo estelar. Que la suerte os acompa&amp;ntilde;e en este &amp;uacute;ltimo cap&amp;iacute;tulo de la cuarta temporada.&lt;/p&gt;&lt;div&gt;&lt;br /&gt;&lt;a href="https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e8-como-se-formo-tierra/17179109/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img alt="" src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;amp;cg=F-N-B-TERNE-TERPROGR-TERMAGAZ-TESHORAA&amp;amp;si=https://www.rtve.es/play/audios/sapiensantes/sapiensantes-t4-e8-como-se-formo-tierra/17179109/" /&gt;</description>
-      <guid isPermaLink="false">https://www.rtve.es/a/17179109/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17179109.mp3" length="69962925" type="audio/mpeg"/>
-      <pubDate>Sun, 09 Aug 2026 05:00:58 +0000</pubDate>
-      <itunes:duration>00:29:09</itunes:duration>
     </item>
   </channel>
 </rss>
