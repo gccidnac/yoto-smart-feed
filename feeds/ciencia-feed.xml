@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:07:20 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - Olas de calor: ¿Las ciudades son más calientes que el campo?</title>
+      <description>Las olas de calor no son simplemente días muy calurosos, pueden afectar nuestra salud, a los animales y hasta a las plantas 🥵☀️ En este episodio descubrimos qué son las olas de calor y cómo se forman junto a Francisco Chesini, licenciado en Salud Ambiental e investigador del CONICET. Aprenderemos qué es un anticiclón, por qué las ciudades se calientan más que el campo, cómo influye el cambio climático y qué podemos hacer para protegernos cuando las temperaturas suben. 🌳💧 💬 Para conversar en f...</description>
+      <guid isPermaLink="false">Buzzsprout-20162728</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20162728-olas-de-calor-las-ciudades-son-mas-calientes-que-el-campo.mp3" length="15123122" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1253</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - El rinoceronte de un solo cuerno</title>
       <description>El rinoceronte de un solo cuerno tiene una piel de hasta 5 centímetros de grosor, ve bastante mal y huele de maravilla. Y su cuerno no es de hueso: está hecho de lo mismo que tus uñas  En este episodio, Leslie Lienholm, especialista en cuidado de animales del Zoológico de Phoenix, responde las preguntas de los niños sobre su cuerno, su armadura, por qué le encanta el barro y cómo se ha logrado protegerlo. 🎶 Canciones y más en el Club de los Curiosos: https://www.cumbremedia.com/club Enla...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19662742-como-se-limpia-el-agua.mp3" length="16232969" type="audio/mpeg"/>
       <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
       <itunes:duration>1344</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - Quetzal: el ave sagrada de los bosques de Centroamérica 🦜</title>
-      <description>Dicen que nació del soplido de los dioses, que sus plumas valían más que el oro, y que jamás podría vivir encerrado. Hoy, Kike Heredia, divulgador de ciencia y creador de Pajareando Ando, nos cuenta la verdad detrás de la leyenda del quetzal: por qué vive dentro de las nubes, cómo planta árboles sin darse cuenta, y qué tiene que ver su cola con una serpiente. Un episodio sobre el ave más libre y más amenazada de los bosques de Centroamérica. ➡️ Pajareando Ando — Pichucalco, Chiapas 🧠 Conversa...</description>
-      <guid isPermaLink="false">Buzzsprout-19640274</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19640274-quetzal-el-ave-sagrada-de-los-bosques-de-centroamerica.mp3" length="19988616" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-      <itunes:duration>1658</itunes:duration>
     </item>
   </channel>
 </rss>
