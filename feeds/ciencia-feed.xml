@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:32:52 +0000</lastBuildDate>
+    <item>
+      <title>Cráneo: Ciencia para niños curiosos - La Luz: ¿De dónde salen los colores?</title>
+      <description>La luz da casi 8 vueltas a la Tierra en un segundo. Rebota, se esconde, se dobla cerca de los agujeros negros y lleva todos los colores del arcoíris escondidos adentro  En este episodio vuelve a Cráneo Luis Villegas, investigador venezolano en la Universidad Ártica de Noruega, para responder las preguntas de los niños sobre la luz: por qué el cielo es azul, por qué brillan los ojos del gato y por qué nunca hay que mirar el sol. 🎶 Canciones y más en el Club de los Curiosos: https://www.cu...</description>
+      <guid isPermaLink="false">Buzzsprout-20182789</guid>
+      <enclosure url="https://www.buzzsprout.com/2635355/episodes/20182789-la-luz-de-donde-salen-los-colores.mp3" length="22774436" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1893</itunes:duration>
+    </item>
     <item>
       <title>Cráneo: Ciencia para niños curiosos - Olas de calor: ¿Las ciudades son más calientes que el campo?</title>
       <description>Las olas de calor no son simplemente días muy calurosos, pueden afectar nuestra salud, a los animales y hasta a las plantas 🥵☀️ En este episodio descubrimos qué son las olas de calor y cómo se forman junto a Francisco Chesini, licenciado en Salud Ambiental e investigador del CONICET. Aprenderemos qué es un anticiclón, por qué las ciudades se calientan más que el campo, cómo influye el cambio climático y qué podemos hacer para protegernos cuando las temperaturas suben. 🌳💧 💬 Para conversar en f...</description>
@@ -159,14 +167,6 @@
       <enclosure url="https://www.buzzsprout.com/2635355/episodes/19677083-reposicion-calamar-de-arrecife-el-lenguaje-de-los-colores.mp3" length="20797291" type="audio/mpeg"/>
       <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
       <itunes:duration>1721</itunes:duration>
-    </item>
-    <item>
-      <title>Cráneo: Ciencia para niños curiosos - ¿Cómo se limpia el agua?</title>
-      <description>El agua está en todas partes, pero ¿qué pasa cuando se contamina? 💧🌎 En este episodio, Rodrigo Sepúlveda, profesor de la Universidad Nacional Autónoma de México y especialista en ingeniería ambiental, nos ayuda a descubrir cómo llegan los contaminantes a ríos, lagos, presas y qué pequeñas acciones podemos hacer cada día para proteger este recurso indispensable. 💦   Enlaces de Cráneo ⚛️ Únete a "⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠El Club de los Curiosos⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠" 📱 Envía las pr...</description>
-      <guid isPermaLink="false">Buzzsprout-19662742</guid>
-      <enclosure url="https://www.buzzsprout.com/2635355/episodes/19662742-como-se-limpia-el-agua.mp3" length="16232969" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-      <itunes:duration>1344</itunes:duration>
     </item>
   </channel>
 </rss>
